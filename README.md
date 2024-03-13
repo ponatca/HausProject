@@ -17,7 +17,9 @@ This is a simple key/value store server that supports transactions. The server a
 2. Run the server:
 
     ```bash
-    python server.py
+    python low_level_server.py
+    or
+    python high_level_server.py
     ```
 
 3. Run the client to send commands:
